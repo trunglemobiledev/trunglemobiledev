@@ -1,4 +1,3 @@
-### Hi there 👋
 # Hi, I’m Steven Lee!   <img src="https://cdn3.emoji.gg/emojis/8139-diamond-3.gif" width="64px" height="64px" alt="Diamond_3">
 
 
